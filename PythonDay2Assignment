@@ -1,0 +1,12 @@
+Definition of Python:- Python is a high;evel,interpreted,dynamically typed language.
+Interpreted :- It means code will be executed line by line.
+Dynamically typed:- It means without mentioning the data type also it will not get any error the code will be excuted easily.
+High level language:- It means it could be understand by the humans very easily,It has the readable code(Humans can understand easily).
+
+
+Definion Of A variable:- A variable is nothing but storing the value in a particular container or a cell.
+Example:- a=10
+Explanation:-Here 10 is stored in the a.Here 10 is called value and a is called variable.
+
+Type Conversion:-It will convert from one data type to another datatype,like the variable can store the data first integer
+through typeconversion we can convert it into string.
